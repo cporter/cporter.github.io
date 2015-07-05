@@ -1,10 +1,10 @@
 # Site settings
-title: freakpower
-email: cp@freakpower.org
+title: cp
+email: cp@dfmm.org
 description: > # this means to ignore newlines until "baseurl:"
   Nothing to see here. Please move along.
 baseurl: "" # the subpath of your site, e.g. /blog/
-url: "http://freakpower.org" # the base hostname & protocol for your site
+url: "http://cp.dfmm.org" # the base hostname & protocol for your site
 twitter_username: cp
 github_username:  cporter
 
